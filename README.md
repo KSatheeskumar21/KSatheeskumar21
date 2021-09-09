@@ -1,6 +1,6 @@
 # Kishore Satheeskumar
 
-- Hi, I’m @KSatheeskumar21
+- Hi, I’m Kishore
 - I’m interested in Linux, programming and computers in general
 - I’m currently learning Python, and planning to learn Rust and Lua.
 - How to reach me:

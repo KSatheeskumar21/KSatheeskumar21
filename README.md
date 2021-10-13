@@ -12,12 +12,14 @@
 Current plans:
 
 - [ ] Make a game in Python, with either Tkinter or Ursina
-- [ ] Learn a bit of Rust and maybe Haskell 
+- [x] Learn a bit of Rust and maybe Haskell 
+- [ ] Learn Go
+- [ ] Learn Node.js, Vue/React
 - [ ] Window managers to try out (and rice):
   - [ ] AwesomeWM
   - [ ] BSPWM
   - [ ] Qtile
-  - [ ] Xmonad 
+
 
 ---
 

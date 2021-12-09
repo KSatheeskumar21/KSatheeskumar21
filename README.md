@@ -16,9 +16,10 @@ Current plans:
 - [ ] Learn Go
 - [ ] Learn Node.js, Vue/React
 - [ ] Window managers to try out (and rice):
-  - [ ] AwesomeWM
+  - [x] XMonad
   - [ ] BSPWM
-  - [ ] Qtile
+  - [x] LeftWM
+  - [x] SpectrWM
 
 
 ---

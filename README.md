@@ -18,7 +18,7 @@ Current plans:
 - [ ] Window managers to try out (and rice):
   - [x] XMonad
   - [ ] BSPWM
-  - [ ] LeftWM
+  - [x] LeftWM
   - [x] SpectrWM
 
 

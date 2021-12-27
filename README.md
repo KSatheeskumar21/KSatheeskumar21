@@ -9,19 +9,18 @@
 
 ---
 
-Current plans:
+## Current plans:
 
 - [ ] Make a game in Python, with either Tkinter or Ursina
-- [x] Learn a bit of Rust and maybe Haskell 
+- [ ] Learn Rust
 - [ ] Learn Go
 - [ ] Learn Node.js, Vue/React
-- [ ] Window managers to try out (and rice):
+- [ ] Learn Lua
+- [ ] Learn Haskell
+- Window managers to try out (and rice):
   - [x] XMonad
-  - [ ] BSPWM
+  - [x] AwesomeWM
   - [x] LeftWM
   - [x] SpectrWM
-
-
----
-
-I hope any code I put out will be of use to you!
+  - [x] Dwm
+  - [ ] BSPWM

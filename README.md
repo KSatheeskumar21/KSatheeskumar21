@@ -23,4 +23,4 @@
   - [x] LeftWM
   - [x] SpectrWM
   - [x] Dwm
-  - [ ] BSPWM
+  - [ ] Qtile

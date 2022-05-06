@@ -11,16 +11,14 @@
 
 ## Current plans:
 
-- [ ] Make a game in Python, with either Tkinter or Ursina
-- [ ] Learn Rust
+- [ ] Build a RESTful or GraphQL API
 - [ ] Learn Go
-- [ ] Learn Node.js, Vue/React
-- [ ] Learn Lua
+- [ ] Learn Node.js, Vue/React/Svelte
 - [ ] Learn Haskell
+
 - Window managers to try out (and rice):
   - [x] XMonad
   - [x] AwesomeWM
   - [x] LeftWM
   - [x] SpectrWM
   - [x] Dwm
-  - [ ] Qtile

@@ -12,7 +12,7 @@
 ## Current plans:
 
 - [ ] Build a RESTful or GraphQL API
-- [ ] Learn Go
+- [ ] Learn Rust
 - [ ] Learn Node.js, Vue/React/Svelte
 
 - Window managers to try out (and rice):

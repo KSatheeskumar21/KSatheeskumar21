@@ -2,22 +2,5 @@
 
 - Hi, I’m Kishore
 - I’m interested in Linux, programming and computers in general
-- I’m currently learning Python, and planning to learn Rust and Lua.
-- How to reach me:
-  - Discord (Nintenno#0512)
-  - Reddit (u/NintennoSwitchPlayer)
-
----
-
-## Current plans:
-
-- [ ] Build a RESTful or GraphQL API
-- [ ] Learn Rust
-- [ ] Learn Node.js, Vue/React/Svelte
-
-- Window managers to try out (and rice):
-  - [x] XMonad
-  - [x] AwesomeWM
-  - [x] LeftWM
-  - [x] SpectrWM
-  - [x] Dwm
+- I'm currently learning Java, and a confident Python programmer
+- Currently studying at Queen Mary University of London
